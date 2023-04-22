@@ -3,15 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+      <url>
+            <loc>https://nisabaestate.com/projects/bag-end/</loc>
+            <lastmod>2023-04-22T21:32:00+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
   
+    
+      <url>
+            <loc>https://nisabaestate.com/projects/bag-end/location/</loc>
+            <lastmod>2023-04-22T21:32:00+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     
       <url>
             <loc>https://nisabaestate.com/</loc>
+            <lastmod>2023-04-22T21:32:00+03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/projects/</loc>
+            <lastmod>2023-04-22T21:32:00+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/projects/bag-end/interiors/</loc>
+            <lastmod>2023-04-22T21:24:19+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/projects/bag-end/infrastructure/</loc>
+            <lastmod>2023-04-22T21:06:27+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
     
   
     

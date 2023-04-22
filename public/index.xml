@@ -5,6 +5,37 @@
     <link>https://nisabaestate.com/</link>
     <description>Recent content on N I S A B A</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://nisabaestate.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Apr 2023 21:32:00 +0300</lastBuildDate><atom:link href="https://nisabaestate.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Location</title>
+      <link>https://nisabaestate.com/projects/bag-end/location/</link>
+      <pubDate>Sat, 22 Apr 2023 21:32:00 +0300</pubDate>
+      
+      <guid>https://nisabaestate.com/projects/bag-end/location/</guid>
+      <description>The Shire is a wide and pleasant land, situated in the North-West of Middle-earth.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nisabaestate.com/projects/bag-end/location/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Interiors</title>
+      <link>https://nisabaestate.com/projects/bag-end/interiors/</link>
+      <pubDate>Sat, 22 Apr 2023 21:24:19 +0300</pubDate>
+      
+      <guid>https://nisabaestate.com/projects/bag-end/interiors/</guid>
+      <description>The door opened on to a tube-shaped hall like a tunnel: a very comfortable tunnel without smoke, with panelled walls, and tiled floors, and lots of electric lights, and big shiny doors at the far end.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nisabaestate.com/projects/bag-end/interiors/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>https://nisabaestate.com/projects/bag-end/infrastructure/</link>
+      <pubDate>Sat, 22 Apr 2023 21:06:27 +0300</pubDate>
+      
+      <guid>https://nisabaestate.com/projects/bag-end/infrastructure/</guid>
+      <description>The road went on, and as it bent round the green skirts of the hill the hobbit could see that it had been well-tended.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nisabaestate.com/projects/bag-end/infrastructure/featured.jpg" />
+    </item>
+    
   </channel>
 </rss>
