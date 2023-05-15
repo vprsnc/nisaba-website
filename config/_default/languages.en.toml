@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "N I S A B A"
 #   image = "img/blowfish_logo.png"
-  headline = "Full cycle real estate agency"
+  headline = "Real estate and assistance services in Türkiye"
   # bio = "Full cycle real estate agency"
   links = [
     { email = "mailto:hello@your_domain.com" },
