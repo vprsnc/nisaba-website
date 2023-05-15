@@ -11,26 +11,42 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "<u><b>NISABA estate</b></u>"
   weight = 10
+  pageRef = "real-estate"
 
 [[main]]
-  name = "Projects"
+  name = "Medical tourism"
   weight = 20
-  pageRef = "projects"
+  pageRef = "med-tourism"
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "For business"
+  weight = 30
+  pageRef = "business-to-business"
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "International assistance"
+  weight = 40
+  pageRef = "assistance"
+
+[[main]]
+  name = "Insurance"
+  parent = "International assistance"
+  weight = 10
+  pageRef = "insurance"
+
+[[main]]
+  name = "Relocation"
+  parent = "International assistance"
+  weight = 20
+  pageRef = "relocation"
+
+[[main]]
+  name = "Residence & citizenship"
+  parent = "International assistance"
+  weight = 30
+  pageRef = "residence-permit-and-citizenship"
 
 #[[subnavigation]]
 #  name = "An interesting topic"
