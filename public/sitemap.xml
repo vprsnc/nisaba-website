@@ -4,17 +4,8 @@
   
     
       <url>
-            <loc>https://nisabaestate.com/real-estate/benleo/facilities/</loc>
-            <lastmod>2023-05-15T20:34:37+03:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://nisabaestate.com/</loc>
-            <lastmod>2023-05-15T20:34:37+03:00</lastmod>
+            <lastmod>2023-05-28T17:03:16+03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -23,6 +14,105 @@
     
       <url>
             <loc>https://nisabaestate.com/real-estate/</loc>
+            <lastmod>2023-05-28T17:03:16+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/infora-yalivak/villas/</loc>
+            <lastmod>2023-05-28T17:03:16+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/infora-yalivak/</loc>
+            <lastmod>2023-05-28T17:03:05+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/forev-modern-halic/</loc>
+            <lastmod>2023-05-28T16:59:39+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/velux-yalivak/villas/</loc>
+            <lastmod>2023-05-23T21:47:34+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/velux-yalivak/</loc>
+            <lastmod>2023-05-23T21:47:08+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/benesta-podio/infrastructure/</loc>
+            <lastmod>2023-05-23T21:45:36+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/benesta-podio/apartments/</loc>
+            <lastmod>2023-05-23T21:44:32+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/benesta-podio/</loc>
+            <lastmod>2023-05-23T21:43:27+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/benleo-acibadem/infrastructure/</loc>
+            <lastmod>2023-05-23T21:40:40+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/benleo-acibadem/apartments/</loc>
+            <lastmod>2023-05-23T21:38:45+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/benleo-acibadem/facilities/</loc>
             <lastmod>2023-05-15T20:34:37+03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -31,7 +121,7 @@
   
     
       <url>
-            <loc>https://nisabaestate.com/real-estate/benleo/benleo-park/</loc>
+            <loc>https://nisabaestate.com/real-estate/benleo-acibadem/benleo-park/</loc>
             <lastmod>2023-05-15T19:56:16+03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -40,8 +130,40 @@
   
     
       <url>
-            <loc>https://nisabaestate.com/real-estate/benleo/</loc>
+            <loc>https://nisabaestate.com/real-estate/benleo-acibadem/</loc>
             <lastmod>2023-05-15T19:40:01+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/atakoy/apartments/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/vadi-degirmendere/apartments/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/forev-modern-halic/apartments/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/atakoy/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -57,6 +179,38 @@
           </url>
     
   
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/atakoy/infrastructure/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/forev-modern-halic/infrastructure/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/vadi-degirmendere/infrastructure/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/velux-yalivak/infrastructure/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     
@@ -93,6 +247,14 @@
   
     
   
+    
+  
+    
+      <url>
+            <loc>https://nisabaestate.com/real-estate/vadi-degirmendere/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
 </urlset>
