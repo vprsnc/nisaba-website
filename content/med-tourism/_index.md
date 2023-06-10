@@ -3,6 +3,13 @@ title: "Medical Tourism"
 draft: false
 ---
 
+- Check-ups
+- Medical treatment & surgery 
+- Aesthetic surgery 
+- Cosmetology & hair transplantation 
+- Second opinion (online consultation service in all areas of medicine)
+
+
 Turkey is one of the top ten destinations for medical tourism worldwide. Turkish Medical Tourism has three significant advantages: a low cost, high quality of care, and fast access to world-class treatment. Turkey's main advantage is that it saves money when compared to other countries.
 The countries of Europe and the CIS recognize Turkey as their new health partner and center for medical tourism. Turkey offers quality and affordable medical travel packages for patients. The country perfectly combines treatment and thermal tourism, spas and wellness centers with five-star hotels.
 The cost of medical services in Turkey is 30-40% lower than in Europe, the USA or Israel. At the same time the quality of medical care remains at a high level. There are favorable service packages and convenient price offers. Package discounts are available for patients, which include everything except the ticket for a plane.
