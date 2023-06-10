@@ -6,4 +6,4 @@ draft: false
 **Benesta Podio** is located in the Bahçelievler district on the European side of Istanbul. Suitable for Turkish Citizenship. 
 
 Contact us to get more information.
-We speak *English, German, Russian, Turkish, and Arabic*.
+*We speak English, German, Russian, Turkish, and Arabic*.
