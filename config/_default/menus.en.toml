@@ -27,25 +27,30 @@
 
 [[main]]
   name = "International assistance"
+  weight = 30
+
+[[main]]
+  parent = "International assistance"
+  name = "Relocation assistance"
+  weight = 30
+  pageRef = "relocation-assistance"
+
+[[main]]
+  name = "Finance"
+  parent = "International assistance"
   weight = 40
-  pageRef = "assistance"
+  pageRef = "finance"
 
 [[main]]
   name = "Insurance"
   parent = "International assistance"
-  weight = 10
+  weight = 50
   pageRef = "insurance"
-
-[[main]]
-  name = "Relocation"
-  parent = "International assistance"
-  weight = 20
-  pageRef = "relocation"
-
+  
 [[main]]
   name = "Residence & citizenship"
   parent = "International assistance"
-  weight = 30
+  weight = 20
   pageRef = "residence-permit-and-citizenship"
 
 #[[subnavigation]]
