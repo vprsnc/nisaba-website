@@ -11,7 +11,7 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "<u><b>NISABA estate</b></u>"
+  name = "<u><b>Real estate</b></u>"
   weight = 10
   pageRef = "real-estate"
 
