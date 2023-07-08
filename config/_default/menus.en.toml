@@ -17,40 +17,40 @@
 
 [[main]]
   name = "Medical tourism"
-  weight = 20
+  weight = 30
   pageRef = "med-tourism"
 
 [[main]]
   name = "For business"
-  weight = 30
+  weight = 40
   pageRef = "business-to-business"
 
 [[main]]
   name = "International assistance"
-  weight = 30
+  weight = 20
 
 [[main]]
   parent = "International assistance"
   name = "Relocation assistance"
-  weight = 30
+  weight = 20
   pageRef = "relocation-assistance"
 
 [[main]]
-  name = "Finance"
+  name = "Banking services"
   parent = "International assistance"
-  weight = 40
+  weight = 30
   pageRef = "finance"
 
 [[main]]
   name = "Insurance"
   parent = "International assistance"
-  weight = 50
+  weight = 40
   pageRef = "insurance"
   
 [[main]]
-  name = "Residence & citizenship"
+  name = "Residence pernmit & Citizenship"
   parent = "International assistance"
-  weight = 20
+  weight = 10
   pageRef = "residence-permit-and-citizenship"
 
 #[[subnavigation]]
